@@ -4,7 +4,6 @@ public class ContractEmployeeSalary implements SalaryCalculator{
         return employee.getBaseSalary()*1.10;
     }
 
-}  //COMMITINGGG
-//Commenting Committing
+} 
 
 
